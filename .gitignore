@@ -1,1 +1,7 @@
 notes_to_update
+AST.h.gch
+lex.yy.c
+parseer.tab.h
+parseer.tab.c
+parser.tab.c
+parser.tab.h
